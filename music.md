@@ -34,20 +34,20 @@ Fast music competitions started off with trackers, and the entries were made wit
 - No software restrictions (usually).
 - Submit the finished tune into the compo system before the competition deadline.
 
-## 8CH TRACKED MUSIC 2021
+## 8CH Tracked music
 
 The tracked music compo will be held at the Scene Lounge, and has different file formats than the other music competitions.
-- Maximum size: 1 MB (1048576 bytes)
-- Maximum length: 3 minutes, if your song is longer the song will be faded out after 3min.
-- Maximum amount of channels you can use is eight (8).
-- If your song loops, the song will be faded out after the first loop
-- Allowed formats: MOD, S3M, XM and IT
-- Please provide a recording of your entry in MP3 (256kbps or higher), OGG (256kbps or higher) or WAV format.
-- Entries will be played in XMPlay with following settings:
-  - MOD: No Interpolation, No Ramping, 50% Stereo Separation, normal MOD playback mode.
-  - S3M/XM/IT: Sinc Interpolation, Sensitive Ramping, 50% Stereo Separation.
-- All entries must be 100% original and unreleased.
-- No remixes, no copyrighted material.
-- If you are using Creative Commons or Public Domain material, state so in your entry form and cite the source! Do not forget to give credit where credit is due!!
-- Remote entries are ALLOWED!
+Maximum size: 1 MB (1048576 bytes)
+Maximum length: 3 minutes, if your song is longer the song will be faded out after 3min.
+Maximum amount of channels you can use is eight (8).
+If your song loops, the song will be faded out after the first loop
+Allowed formats: MOD, S3M, XM and IT
+Please provide a recording of your entry in MP3 (256kbps or higher), OGG (256kbps or higher) or WAV format.
+Entries will be played in Trackmeister (https://www.pouet.net/prod.php?which=95663) with following settings:
+MOD: No Interpolation, No Ramping, 50% Stereo Separation, normal MOD playback mode.
+S3M/XM/IT: Sinc Interpolation, Sensitive Ramping, 50% Stereo Separation.
+All entries must be 100% original and unreleased.
+No remixes, no copyrighted material.
+If you are using Creative Commons or Public Domain material, state so in your entry form and cite the source! Do not forget to give credit where credit is due!!
+Remote entries are ALLOWED!
 
